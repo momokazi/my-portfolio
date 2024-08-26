@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: Husnain Momin
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Bringing ideas to life through code and creativity, I specialize in
+      developing intuitive apps using Flutter. I also have a passion for writing
+      and offer consultation services in tech. My work combines innovation with
+      practicality, always aiming to deliver results that stand out.
     styles:
       self:
         height: auto
