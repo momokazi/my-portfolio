@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: /projects
+        url: 'https://github.com/momokazi?tab=repositories'
     showDate: false
     showDescription: true
     showFeaturedImage: true
