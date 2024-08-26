@@ -1,14 +1,13 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: To-do List
 colors: colors-a
-date: '2021-10-15'
+date: '2024-05-26'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+description: To-do List using Flutter and Firebase.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/asasasasasas.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

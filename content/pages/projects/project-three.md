@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Weather App
 colors: colors-a
-date: '2022-01-22'
+date: '2022-01-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Of course everyone has a weather app and so do I. I made this when I was
+  starting to get into Flutter.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/adadadadadada.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

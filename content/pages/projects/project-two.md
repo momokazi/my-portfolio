@@ -1,15 +1,18 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Momofy - Music Player
 colors: colors-a
-date: '2021-12-20'
+date: '2024-06-05'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  A Music Player using Flutter and Spotify API with Firebase and Firestore. I
+  always wanted to make a Music Player and I still can't believe that I actually
+  pulled so many all nighters for this. Oh yeah kudos to my project partner as
+  well <3
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
+  url: /images/splash_image.png
+  altText: Momofy Music Player
 media:
   type: ImageBlock
   url: /images/bg2.jpg
