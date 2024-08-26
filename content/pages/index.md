@@ -48,7 +48,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/asdasdasdasdasdasd.jpg
+      url: /images/Picsart_24-01-25_00-08-26-294.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
