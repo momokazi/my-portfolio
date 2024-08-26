@@ -17,11 +17,6 @@
                 "type": "Link",
                 "label": "Projects",
                 "url": "https://github.com/momokazi?tab=repositories"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
