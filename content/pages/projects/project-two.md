@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/splash_image.png
-  altText: Project thumbnail image
+  altText: Momofy Music Player
 media:
   type: ImageBlock
   url: /images/bg2.jpg
